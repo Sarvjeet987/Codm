@@ -1,2 +1,2 @@
 # CodingM
-This is the demo bootstrap proj
+This is the demo bootstrap project
